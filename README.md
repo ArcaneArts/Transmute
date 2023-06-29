@@ -1,2 +1,2 @@
-# transmute
-Translate your code into that other guy's language
+A sample command-line application with an entrypoint in `bin/`, library code
+in `lib/`, and example unit test in `test/`.
